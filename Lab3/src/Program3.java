@@ -8,9 +8,16 @@ public class Program3 {
     public static void main(String[] args) {
          System.out.println("Enter the number of days: ");
          Scanner input = new Scanner(System.in);
-         int days = input.nextInt();
 
-         int years = days / 365;
-// in progress
+         int total_days = input.nextInt();
+
+         int years = total_days / 365;
+         int days = total_days % 365;
+         int months = days / 12;
+
+         System.out.println(total_days + " is equal to: ");
+         System.out.println(years + " years.");
+         System.out.println(months + " months.");
+         System.out.println(days + " days.");
     }
 }
