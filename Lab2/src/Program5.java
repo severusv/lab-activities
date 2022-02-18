@@ -3,7 +3,9 @@
 
 public class Program5 {
     public static void main(String[] args) {
-        double pi = Math.PI;
+        final double pi = Math.PI; // you could use "double pi = 3.14" or "double pi = 22/7" too, both work.
+        // I made it a constant, you don't have to though
+
         int radius = 21;
         double circumference = 2 * pi * radius;
 
