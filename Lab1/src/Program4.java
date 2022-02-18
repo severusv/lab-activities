@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Program4 {
     public static void main(String[] args) {
+        System.out.println("Enter the distance is kilometers: ");
         Scanner input = new Scanner(System.in);
 
         double km;

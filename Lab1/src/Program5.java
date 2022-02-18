@@ -2,7 +2,6 @@
 // perimeter and diagonal of a rectangle.
 
 import java.util.Scanner;
-import java.lang.Math;
 
 public class Program5 {
     public static void main(String[] args) {
@@ -25,7 +24,6 @@ public class Program5 {
         System.out.println("The area of that rectangle is " + area + " cm.");
         System.out.println("The perimeter of that rectangle is " + perimeter + " cm.");
         System.out.println("The length of its diagonal is " + diagonal + " cm.");
-        input.close();
-
+        input.close(); // this isn't neccessary btw
     }
 }

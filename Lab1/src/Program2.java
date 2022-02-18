@@ -10,7 +10,8 @@ public class Program2 {
         int c;
 
         // these print statements aren't neccesary, I just
-        // added them so that I could see what's happening
+        // added them so that I could see if the swapping
+        // was happening properly
         System.out.println("before swapping: ");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
