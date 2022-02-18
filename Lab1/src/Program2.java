@@ -1,6 +1,9 @@
+// Write a program to swap two numbers with
+// and without a third variable.
+
 public class Program2 {
     public static void main(String[] args) {
-        // by using a third variable: 
+        // by using a third variable:
         System.out.println("Swapping two variables by using a third variable: ");
         int a = 2;
         int b = 4;
@@ -9,8 +12,8 @@ public class Program2 {
         System.out.println("before swapping: ");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
-        
-        c = b; 
+
+        c = b;
         b = a;
         a = c;
 
@@ -18,7 +21,7 @@ public class Program2 {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        // without using a third variable: 
+        // without using a third variable:
         System.out.println("Swapping two variables without using a third variable: ");
         int i = 2;
         int j =  4;

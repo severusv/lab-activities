@@ -1,3 +1,11 @@
+// Write a program to accept mark from a user
+// and print the grade as:
+
+// A: 90+
+// B: 70-89
+// C: 50-69
+// D: 50
+
 import java.util.Scanner;
 
 public class Program4 {

@@ -1,3 +1,8 @@
+// Write a program to find hypotenuse, area
+// and circumference of a right angled triangle
+// whose base and height are 8 cm and 15 cm
+// respectively.
+
 public class Program2 {
     public static void main(String[] args) {
         int base = 8;

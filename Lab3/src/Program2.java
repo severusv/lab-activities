@@ -1,3 +1,6 @@
+// Write a program to divide two numbers
+// and find the quotient and remainder.
+
 import java.util.Scanner;
 
 public class Program2 {

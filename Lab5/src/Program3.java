@@ -1,3 +1,6 @@
+// Write a program to accept a value from the user
+// and check whether it is even or odd.
+
 import java.util.Scanner;
 
 public class Program3 {

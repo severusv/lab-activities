@@ -1,3 +1,8 @@
+// Write a program to convert temprature from
+// Celcius to Farenheit.
+
+// HINT: F = C * 9/5 + 32
+
 import java.util.Scanner;
 
 public class Program4 {

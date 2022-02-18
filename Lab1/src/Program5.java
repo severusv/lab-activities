@@ -1,3 +1,6 @@
+// Write a program to find the area,
+// perimeter and diagonal of a rectangle.
+
 import java.util.Scanner;
 import java.lang.Math;
 

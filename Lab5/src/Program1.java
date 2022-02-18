@@ -1,3 +1,6 @@
+// Write a program to accept two numbers and
+// display the largest and smallest numbers.
+
 import java.util.Scanner;
 
 public class Program1 {

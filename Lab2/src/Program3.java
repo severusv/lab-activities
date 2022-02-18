@@ -1,3 +1,6 @@
+// Write a program to convert temprature
+// from Celcuis to Kelvin. (HINT: K = C + 273)
+
 import java.util.Scanner;
 
 public class Program3 {

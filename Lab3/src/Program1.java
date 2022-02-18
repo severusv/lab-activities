@@ -1,3 +1,6 @@
+// Write a program to find the sum, difference
+// and product of two numbers taken as input.
+
 import java.util.Scanner;
 
 public class Program1 {

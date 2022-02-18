@@ -1,3 +1,6 @@
+// Write a program to convert kilometers
+// to miles. (HINT: 1km = 0.621 m)
+
 import java.util.Scanner;
 
 public class Program4 {

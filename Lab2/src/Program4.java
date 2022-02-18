@@ -1,3 +1,11 @@
+// Write a program to find the net pay and
+// gross pay of an employee whose basic
+// salary is 75,000, allowance is 40% of
+// the basic salary and the PF is 10% of
+// the basic salary.
+// (Net pay = Basic + Allowance)
+// (Gross pay = Net Pay - PF)
+
 public class Program4 {
     public static void main(String[] args) {
         double basic_salary = 75000.0;

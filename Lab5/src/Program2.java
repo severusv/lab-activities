@@ -1,3 +1,7 @@
+// Write a program to accept a value from user
+// check whether is is a negative number or a
+// positive number or zero.
+
 import java.util.Scanner;
 
 public class Program2 {

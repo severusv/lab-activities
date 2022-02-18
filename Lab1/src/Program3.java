@@ -1,3 +1,7 @@
+// Write a program to find simple interest
+// when the principal is 50,000, the rate
+// of interest is 5% and the time is 2 years.
+
 public class Program3 {
     public static void main(String[] args) {
         int principal = 50000;
