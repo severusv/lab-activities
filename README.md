@@ -1,5 +1,3 @@
-# lab-activities
-
 ## Navigating the file tree
 
 `/src` contains all the source code.
