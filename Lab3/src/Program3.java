@@ -16,7 +16,7 @@ public class Program3 {
          int months = days / 12;
 
          System.out.println(total_days + " is equal to: ");
-         System.out.println(years + " years.");
+         System.out.println(years + " year/years.");
          System.out.println(months + " months.");
          System.out.println(days + " days.");
     }
