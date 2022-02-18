@@ -9,6 +9,8 @@ public class Program2 {
         int b = 4;
         int c;
 
+        // these print statements aren't neccesary, I just
+        // added them so that I could see what's happening
         System.out.println("before swapping: ");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
@@ -24,7 +26,7 @@ public class Program2 {
         // without using a third variable:
         System.out.println("Swapping two variables without using a third variable: ");
         int i = 2;
-        int j =  4;
+        int j = 4;
 
         System.out.println("before swapping: ");
         System.out.println("i = " + i);
